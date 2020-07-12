@@ -12,4 +12,4 @@ This software is compiled and tested on Windows.
 -   Baud: 115200
 5.  Then click the button "Open"
 
-!(https://github.com/soonuse/serial_console_for_switch/blob/master/SerialConsole/Resources/demo.png)
+![demo](https://github.com/soonuse/serial_console_for_switch/blob/master/SerialConsole/Resources/demo.png)
