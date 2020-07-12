@@ -10,4 +10,6 @@ This software is compiled and tested on Windows.
 4.  Open this software and open the serial port:
 -   Port: COM port for your board
 -   Baud: 115200
-then click the button "Open"
+5.  Then click the button "Open"
+
+!(https://github.com/soonuse/serial_console_for_switch/blob/master/SerialConsole/Resources/demo.png)
