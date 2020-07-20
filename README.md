@@ -1,5 +1,5 @@
 # serial_console_for_switch
-Control your Switch using the keyboard via serial port.
+Control your Nintendo Switch using a keyboard via serial port.
 
 This software is compiled and tested on Windows.
 
@@ -8,7 +8,7 @@ This software is compiled and tested on Windows.
 -   See [stm32_joystick_for_nintendo_switch](https://github.com/soonuse/stm32_joystick_for_nintendo_switch.git) for more information of frame protocol.
 2.  Connect the board to your PC with a serial cable.
 3.  Connect the board to your Switch using a USB cable. The USB port of switch is type C therefore your might connect Switch to your board with a USB type C converter.
-4.  Open this software and open the serial port:
+4.  Open the software [SerialConsole](https://github.com/soonuse/serial_console_for_switch/releases) then choose and open a serial port:
 -   Port: COM port for your board
 -   Baud: 115200
 5.  Then click the button "Open"
